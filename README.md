@@ -1,4 +1,8 @@
-this project(webapp) belongs to the work came to my company , below points are just summary in my words what is assigned throughout the development in sprint,
+*this project(webapp) belongs to the work came to my company
+*i created this one with Servlet back then at company, 
+*i also have uploaded repository having this same webaap with Spring as well as in other repository you will find this webapp with Spring Boot,
+*below points are just summary in my words what is assigned throughout the development in sprint.
+
 -webapp is for managing project that came from client,
 -CRUD- admin can onboard/release employee on project
 -admin,employee,client can login with otp 
